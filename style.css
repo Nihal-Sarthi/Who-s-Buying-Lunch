@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 97vh;
+  width: 95vw;
+  background-color: lavender;
+}
+
+.sec-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: indianred;
+  height: 50vh;
+  width: 50vw;
+}
+
+.title {
+  font-size: 65px;
+  font-weight: 700;
+  text-align: center;
+}
